@@ -5,7 +5,7 @@ library(ggplot2)
 library(ggrepel)
 library(tidyverse)
 
-setwd("D:/20125106/Sem3_Year2/STAT452/Final/")
+setwd("Final/")
 
 library(readr)
 
